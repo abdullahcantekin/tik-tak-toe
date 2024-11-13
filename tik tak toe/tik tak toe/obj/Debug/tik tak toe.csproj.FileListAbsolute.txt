@@ -1,0 +1,10 @@
+C:\Users\tekin\source\repos\tik tak toe\tik tak toe\bin\Debug\tik tak toe.exe.config
+C:\Users\tekin\source\repos\tik tak toe\tik tak toe\bin\Debug\tik tak toe.exe
+C:\Users\tekin\source\repos\tik tak toe\tik tak toe\bin\Debug\tik tak toe.pdb
+C:\Users\tekin\source\repos\tik tak toe\tik tak toe\obj\Debug\tik tak toe.csprojAssemblyReference.cache
+C:\Users\tekin\source\repos\tik tak toe\tik tak toe\obj\Debug\tik_tak_toe.Form1.resources
+C:\Users\tekin\source\repos\tik tak toe\tik tak toe\obj\Debug\tik_tak_toe.Properties.Resources.resources
+C:\Users\tekin\source\repos\tik tak toe\tik tak toe\obj\Debug\tik tak toe.csproj.GenerateResource.cache
+C:\Users\tekin\source\repos\tik tak toe\tik tak toe\obj\Debug\tik tak toe.csproj.CoreCompileInputs.cache
+C:\Users\tekin\source\repos\tik tak toe\tik tak toe\obj\Debug\tik tak toe.exe
+C:\Users\tekin\source\repos\tik tak toe\tik tak toe\obj\Debug\tik tak toe.pdb
